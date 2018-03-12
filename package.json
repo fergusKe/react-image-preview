@@ -1,6 +1,6 @@
 {
-  "name": "react-template",
-  "homepage": "https://fergusKe.github.io/react-template",
+  "name": "react-image-preview",
+  "homepage": "https://fergusKe.github.io/react-image-preview",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
